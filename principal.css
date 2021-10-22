@@ -1,0 +1,186 @@
+footer {
+	display: flex;
+	display: column;
+	justify-content: space-around;
+
+
+}
+
+.img1 {
+	height: 50px;
+	width: 50px;
+}
+
+ footer div {
+	margin-top: 10px;
+	
+}
+
+main {
+	display: table;
+  width: 100%;
+	  height:625px;
+  padding: 10px 0;
+  text-align: center;
+  color: white;
+  background: url(homem.jpg) no-repeat bottom center scroll;
+  background-position: 30% 45%;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+	  -o-background-size: cover;
+	 
+    
+}
+
+.card-img-top:hover {
+       transform: scale(1.2);
+  filter: brightness(30%);
+ 
+}
+
+.flex {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 100px;
+}
+
+.card-text {
+
+	color: black;
+	font-size: 1.5rem;
+}
+
+.card-body {
+	background: gray;
+}
+
+.s {
+	font-size: 1.5rem;
+	color:white;
+	text-align: center;
+}
+
+@media screen and (min-width: 0px){
+   footer {
+	display: flex;
+	display: column;
+	justify-content: space-around;
+
+
+}
+
+.d-inline-block {
+	height: 150px;
+	width: 150px;
+}
+
+h3 {
+	font-size: 3rem;
+}
+
+p {
+	font-size: 2rem;
+}
+
+.img1 {
+	height: 150px;
+	width: 150px;
+}
+
+ footer div {
+	margin-top: 10px;
+	
+}
+
+
+
+.card-img-top:hover {
+       transform: scale(1.2);
+  filter: brightness(30%);
+ 
+}
+
+.flex {
+	display: column;
+	justify-content: space-around;
+}
+
+.card-text {
+
+	color: black;
+	font-size: 3rem;
+}
+
+.card-body {
+	background: gray;
+}
+
+.s {
+	font-size: 3rem;
+	color: white;
+	text-align: center;
+}
+}
+
+@media screen and (min-width: 1024px){
+	footer {
+	display: flex;
+	display: column;
+	justify-content: space-around;
+
+
+}
+
+.img1 {
+	height: 50px;
+	width: 50px;
+}
+
+ footer div {
+	margin-top: 10px;
+	
+}
+
+
+
+.card-img-top:hover {
+       transform: scale(1.2);
+  filter: brightness(30%);
+ 
+}
+
+.flex {
+	display: flex;
+	justify-content: space-around;
+}
+
+.card-text {
+
+	color: black;
+	font-size: 1.5rem;
+}
+
+.card-body {
+	background: gray;
+}
+
+.s {
+	font-size: 1.5rem;
+	color: white;
+	text-align: center;
+}
+.d-inline-block {
+	height: 70px;
+	width: 70px;
+}
+h3 {
+	font-size: 2rem;
+}
+
+p {
+	font-size: 1.5rem;
+}
+}
+

@@ -1,0 +1,57 @@
+.gif {
+	height: 100%px;
+	width: 100%;
+	object-fit: cover;
+
+}
+
+section {
+	display: table;
+  width: 100%;
+	  height:625px;
+  padding: 10px 0;
+  text-align: center;
+  color: white;
+  background: url(gif.jpg) no-repeat bottom center scroll;
+  background-position: 30% 45%;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+	  -o-background-size: cover;
+     
+
+
+}
+
+.img {
+	width: 70px;
+	height: 70px;
+	margin-top: 460px; 
+	position: static;
+	background-color:grey;
+	border: solid 2px black;
+	border-radius: 25%;
+	padding: 10px;
+	object-fit: cover;
+
+}
+
+
+footer {
+	display: flex;
+	display: column;
+	justify-content: space-around;
+
+
+}
+
+.img1 {
+	height: 50px;
+	width: 50px;
+}
+
+ footer div {
+	margin-top: 10px;
+	
+}
